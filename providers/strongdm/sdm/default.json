@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ca98c41b6b8d873403523531a17ba7a518bd4491759dd4870bab7ae5912c74a3",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.0.0/terraform-provider-sdm_14.0.0_darwin_arm64.zip"
+      "sha256": "65f0f55be65a75e146e5f15a90e6deae3b2cebc1ee1d7694da3f7ce9cd23f490",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.4.0/terraform-provider-sdm_14.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c7fcf0da7d6fcdf14067e71edafee1968ed8542020047b27a1f6ccee93d4bae0",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.0.0/terraform-provider-sdm_14.0.0_linux_arm64.zip"
+      "sha256": "f89cf4ee5d187286785bedc6d5cec24f9bf3bc7bfa71c7c5b845bf5456605fc4",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.4.0/terraform-provider-sdm_14.4.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e7282d916de38663fb7246cd710b22ca997912f9f719749e31356014494e4ea7",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.0.0/terraform-provider-sdm_14.0.0_darwin_amd64.zip"
+      "sha256": "5dbe4d6ac70bf3bb12ad3cdb05715790b4a3ddc2597e25ea0b781bee5a0edeb0",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.4.0/terraform-provider-sdm_14.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "55d32667ddaf598e8ae0d6c8bd54aa58510b28dc66d5bd437786d0ecb51766ca",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.0.0/terraform-provider-sdm_14.0.0_linux_amd64.zip"
+      "sha256": "e88e7bf3b1411ced830ff8ce7086b9848c890b5065c269cc381ea8065a2d9865",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.4.0/terraform-provider-sdm_14.4.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.0.0"
+  "version": "14.4.0"
 }

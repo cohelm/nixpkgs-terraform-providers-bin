@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f7cd10a32af26af1431d5ebbcb5d1c38b60631140abbba5542654f001a38b09b",
-      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.1/terraform-provider-fivetran_1.6.1_darwin_arm64.zip"
+      "sha256": "b17339f8811411ae37a83d09bc1d154b468dffd7aa839259af1bb92787eacd03",
+      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.2/terraform-provider-fivetran_1.6.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "cf5752fcb5199a7735995c2441de46a9d7e22e298102c57bcf52c5dd4390a4cf",
-      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.1/terraform-provider-fivetran_1.6.1_linux_arm64.zip"
+      "sha256": "bb3556a36a45eae4442fcc0669751ed644c9a3de48824d443b69367e1c64850c",
+      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.2/terraform-provider-fivetran_1.6.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "686f1438c3d1011f372065a7039ca31b2aea70070307d52d74ddd6050bb02c40",
-      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.1/terraform-provider-fivetran_1.6.1_linux_386.zip"
+      "sha256": "7acc91c27ec69b5b37becb71b1dad729e8f5a71cb4f1aad0fffa4e80cb9b7f86",
+      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.2/terraform-provider-fivetran_1.6.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "48b1d09cbd59c555ca7cd9770f5dc293a19af730507ab97fc36f472dcbb3726f",
-      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.1/terraform-provider-fivetran_1.6.1_darwin_amd64.zip"
+      "sha256": "ddc21a592faf9d97c66608e3b6ec33f392599143139718f755f51107bf78e3d0",
+      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.2/terraform-provider-fivetran_1.6.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a795058d1e6daf475dc94949c7a17bc660bb749ed75457e7490f7dd904df3c42",
-      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.1/terraform-provider-fivetran_1.6.1_linux_amd64.zip"
+      "sha256": "0e0e1e902be6f11ef3377bfa07b1c2f68cb760db7113d77dc7b19cf2c0d4ea0f",
+      "url": "https://github.com/fivetran/terraform-provider-fivetran/releases/download/v1.6.2/terraform-provider-fivetran_1.6.2_linux_amd64.zip"
     }
   },
   "owner": "fivetran",
   "repo": "fivetran",
-  "version": "1.6.1"
+  "version": "1.6.2"
 }

@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "048838396a57bffd871f2fa5fb86d90e327a53a7e3becd763a2528efbaebfa67",
-      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.1/terraform-provider-satori_0.2.1_darwin_arm64.zip"
+      "sha256": "886378324986eecbb4046517af4f6d468a35544cc57bc18448159216851e9ba0",
+      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.2/terraform-provider-satori_0.2.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "bb2d05f21ad6131dce3aa9d3ffccd0634817c2c4f0d669cb624a4b53cafe8edf",
-      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.1/terraform-provider-satori_0.2.1_linux_arm64.zip"
+      "sha256": "21f4dbd63d673ba1520a541d152236376d16ebd1ccabee57e7635dd4a5fcc243",
+      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.2/terraform-provider-satori_0.2.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ac4e0a91e3810cf25e5c84590e79c117f7d9d505090e3500ceec4a01f40fd036",
-      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.1/terraform-provider-satori_0.2.1_linux_386.zip"
+      "sha256": "f0d542c40191de73f97c3dcae870f10baa165ef3dd2d1390c8fa9f23a0a625f8",
+      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.2/terraform-provider-satori_0.2.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9e74d4aa2e1c617b3bc63c2706329cc73b016a00d30358fe738d6e2c18b753e7",
-      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.1/terraform-provider-satori_0.2.1_darwin_amd64.zip"
+      "sha256": "14ed156c4ab22e3b7bb46aea7c974b9d2f3ca5804eabe3870fa6fe107552b8fe",
+      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.2/terraform-provider-satori_0.2.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "cf4855e79608cbfcf25d5fb09f650427185cd0906e655183a88869a2659581ce",
-      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.1/terraform-provider-satori_0.2.1_linux_amd64.zip"
+      "sha256": "bbfc1a08f2f1af9ff8ac4d62429752f126a846ef13397c218c78640b9124bcb7",
+      "url": "https://github.com/SatoriCyber/terraform-provider-satori/releases/download/v0.2.2/terraform-provider-satori_0.2.2_linux_amd64.zip"
     }
   },
   "owner": "SatoriCyber",
   "repo": "satori",
-  "version": "0.2.1"
+  "version": "0.2.2"
 }

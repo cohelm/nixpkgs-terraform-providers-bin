@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ef5b39b54eb8b69915bf4bafa1b3192aed53f8a65e83e97f36701b1a030f2f47",
-      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.37.1/terraform-provider-nobl9_0.37.1_darwin_arm64.zip"
+      "sha256": "f940828d61e07e465fe4c6e348ce8af64949408f73c7cec43e5702e4c8d06b86",
+      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.38.0/terraform-provider-nobl9_0.38.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "6966f17d6052a359bd164e0bc391ce7e2e98bc4dfa6a6f5016e8476b0f5e1a7e",
-      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.37.1/terraform-provider-nobl9_0.37.1_linux_arm64.zip"
+      "sha256": "443c41d84e24b349b8c439d8ce1a4ddb935ecda68ca694636ddde8c944f33898",
+      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.38.0/terraform-provider-nobl9_0.38.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "8237a6af91a795bba1fa003ed209efe8f4f32e2bd331e4cbcbc6e76074d2abe4",
-      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.37.1/terraform-provider-nobl9_0.37.1_linux_386.zip"
+      "sha256": "3cf831268ab6b50f1d6f40134066af11294e23c80104e04932859afb562491d9",
+      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.38.0/terraform-provider-nobl9_0.38.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "47847764a94fbb89161569da8968f71f5c9d3f466a01ee930d28125e52714928",
-      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.37.1/terraform-provider-nobl9_0.37.1_darwin_amd64.zip"
+      "sha256": "e6d1163d8d79ea85fb6f9495dcb1e99d7f58050bd71d9412ee2b676944ab1d6d",
+      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.38.0/terraform-provider-nobl9_0.38.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "7f221149f2c1a7602c4954f3aaf5a337338715e7bc1f2cfd4fc57bc3408e12cf",
-      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.37.1/terraform-provider-nobl9_0.37.1_linux_amd64.zip"
+      "sha256": "e4954d52dc324f67510cc81f8020d2f58d4218ac1c715a5c0f46bf05418f7a69",
+      "url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.38.0/terraform-provider-nobl9_0.38.0_linux_amd64.zip"
     }
   },
   "owner": "nobl9",
   "repo": "nobl9",
-  "version": "0.37.1"
+  "version": "0.38.0"
 }
