@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "db0e7f48c071614aadb5da8644b2b804b7e210803481cb14ad13124688945790",
-      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.34/terraform-provider-edgecenter_0.7.34_darwin_arm64.zip"
+      "sha256": "791daeb2fc31e261776f272bd1c3a3fea80c7b7dd253887824316f440fccf7ca",
+      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.35/terraform-provider-edgecenter_0.7.35_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "5c2c7b2a0894a614ae3e5d7c62bc9d2893f2ea33d81505840251194ec03b775a",
-      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.34/terraform-provider-edgecenter_0.7.34_linux_arm64.zip"
+      "sha256": "943c34df5d32dae735e6c004357ad6b27f9c575d988580bbba6054591f4acb68",
+      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.35/terraform-provider-edgecenter_0.7.35_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "72506529030b115748abd6bfd21147a14aab284d0ca20bc3856d7ba5ac7002c3",
-      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.34/terraform-provider-edgecenter_0.7.34_linux_386.zip"
+      "sha256": "1b99d7e691796ca343b055ce35be66c6963c21781ae0b41a3b5ed46422ed30f6",
+      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.35/terraform-provider-edgecenter_0.7.35_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "3ea6ae1580fed2132549925791fb75fef961f8bbfb7d49eb7f2ae2a3a2e5e900",
-      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.34/terraform-provider-edgecenter_0.7.34_darwin_amd64.zip"
+      "sha256": "28d88b018c5ed1360f50d3a7d859f5b77484a451f27af47ef423d1a87c452af8",
+      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.35/terraform-provider-edgecenter_0.7.35_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c6b618bdaa3531fae00bd478000745b5cb1dd453a6a1d22ae2de29718f366d43",
-      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.34/terraform-provider-edgecenter_0.7.34_linux_amd64.zip"
+      "sha256": "4c4c55930eb47ef8c212c9eb72a94e6ff26c8c4ac8c82a912eeddc984daa2c11",
+      "url": "https://github.com/Edge-Center/terraform-provider-edgecenter/releases/download/v0.7.35/terraform-provider-edgecenter_0.7.35_linux_amd64.zip"
     }
   },
   "owner": "Edge-Center",
   "repo": "edgecenter",
-  "version": "0.7.34"
+  "version": "0.7.35"
 }
