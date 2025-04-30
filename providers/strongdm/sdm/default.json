@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bbe19cedc9b148ae95150455716164022631ec22285b1d8c42e351f1b9ae6d8e",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.6.0/terraform-provider-sdm_14.6.0_darwin_arm64.zip"
+      "sha256": "500a2730cc2b1790bbc212c4b4b27e15ba36384ebb597404a7e0cbc57117ca30",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "62c278021ba2ac9f9944184d8672320019ce5696c72b49eb490d80ed31ac4133",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.6.0/terraform-provider-sdm_14.6.0_linux_arm64.zip"
+      "sha256": "b9fd723177682ac383f4c75407549a2eda49d411efb6d4010a706356657e5967",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "4d9228d1ea893aec2d04e249127306ccde01eb893b1956b14a4cd3572006ad5b",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.6.0/terraform-provider-sdm_14.6.0_darwin_amd64.zip"
+      "sha256": "a3f4e7a09bc068ab459d12160e93d1d0654dc67dff3b2bd362971dab39459581",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f0a9bf7a9d4c855f93462d458a2490b847f6fb110200a00e5b376c54be21af5e",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.6.0/terraform-provider-sdm_14.6.0_linux_amd64.zip"
+      "sha256": "340f487b2433cb0c32f00502e85de8544882ad85ad346fc8ee46b3c438338137",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.6.0"
+  "version": "14.7.0"
 }

@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a9473c81a3c38eed096bc0107bc38461d412866a4b606941e8993d716f163fdb",
-      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.201/terraform-provider-instaclustr_v2.0.201_darwin_arm64.zip"
+      "sha256": "e308103a500e919c97883d14e3f497b1a60880ddec2026249dccfcb189e3e414",
+      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.202/terraform-provider-instaclustr_v2.0.202_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d3686cba4fbbeda87832fd3c7b64b3840f47f0da6070dc0c7ba3245055e8f7e5",
-      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.201/terraform-provider-instaclustr_v2.0.201_linux_arm64.zip"
+      "sha256": "25375e66680027cd5e7dd29c321e69d76b60ff19fd0116221902856ef2f2a47c",
+      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.202/terraform-provider-instaclustr_v2.0.202_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "56283f71ae5e4c82437f8fbf73bf133eafd85911a168f3ad4644bc49fc513ee6",
-      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.201/terraform-provider-instaclustr_v2.0.201_darwin_amd64.zip"
+      "sha256": "559bb8ff6f7e473c815f9c9cd45c31b2f0e373bd30f8080abe560a6acba029f4",
+      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.202/terraform-provider-instaclustr_v2.0.202_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c781d560a3a5c8a58cdf6476f057f6912974b770858b21ef7a3cc435192f7e48",
-      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.201/terraform-provider-instaclustr_v2.0.201_linux_amd64.zip"
+      "sha256": "65e599bef4ebffc40c44cf12199e4ba35276eafb48f8701ae3ffb9005a874ba7",
+      "url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.0.202/terraform-provider-instaclustr_v2.0.202_linux_amd64.zip"
     }
   },
   "owner": "instaclustr",
   "repo": "instaclustr",
-  "version": "2.0.201"
+  "version": "2.0.202"
 }
