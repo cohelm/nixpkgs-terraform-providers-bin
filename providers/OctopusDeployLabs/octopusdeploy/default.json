@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "ffe8474924c2b372d347a99de8f2c95c399cae2bf471c46447b706357efe578f",
-      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.0/terraform-provider-octopusdeploy_0.43.0_darwin_arm64.zip"
+      "sha256": "518567345e8ea0ec31a255aab90465ab7eac1b05c2cc120edf901e9ce1234d47",
+      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.1/terraform-provider-octopusdeploy_0.43.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "01c28f6a27f44ee5cdd0ff5903a621ae680f99ac79c24f6abf1731cebc8ce6fd",
-      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.0/terraform-provider-octopusdeploy_0.43.0_linux_arm64.zip"
+      "sha256": "99d03576b61ce70d48087e7fa62d3579fea80274601e23f7da0b4e2d34ad86de",
+      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.1/terraform-provider-octopusdeploy_0.43.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "39c94e1031d6f4eab61618183f8b94e61470ae129ff3309b2c26f347f611b685",
-      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.0/terraform-provider-octopusdeploy_0.43.0_linux_386.zip"
+      "sha256": "dfb5fc56798cdfd469da88cdb0c21af7cf09c24959c27c9a44da0eaa076a3e2e",
+      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.1/terraform-provider-octopusdeploy_0.43.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "ac7352b7560722408ebc4426129b94cfc7eb12a6e8db837074fe696f3dc61590",
-      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.0/terraform-provider-octopusdeploy_0.43.0_darwin_amd64.zip"
+      "sha256": "f66a34f33c5c01e164d8a2c668eaf01447ecdea877e9b031f04b4cfa20b3a0c7",
+      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.1/terraform-provider-octopusdeploy_0.43.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "9f25af913cceee248f1adda7fe9b157b3281a946107b0f8d3e0cdf427b61da74",
-      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.0/terraform-provider-octopusdeploy_0.43.0_linux_amd64.zip"
+      "sha256": "c0f55a35fea73b8e5e52f26d7495b3a4db790322499c18d85cc9fbb476f3becb",
+      "url": "https://github.com/OctopusDeployLabs/terraform-provider-octopusdeploy/releases/download/v0.43.1/terraform-provider-octopusdeploy_0.43.1_linux_amd64.zip"
     }
   },
   "owner": "OctopusDeployLabs",
   "repo": "octopusdeploy",
-  "version": "0.43.0"
+  "version": "0.43.1"
 }

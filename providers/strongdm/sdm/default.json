@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "500a2730cc2b1790bbc212c4b4b27e15ba36384ebb597404a7e0cbc57117ca30",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_darwin_arm64.zip"
+      "sha256": "fe4514f70f8b76eb009d734b78ae0db51d6912c7b3361893d7642bd713b91887",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "b9fd723177682ac383f4c75407549a2eda49d411efb6d4010a706356657e5967",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_linux_arm64.zip"
+      "sha256": "a2b2584f9a3c5ad827456b0ebf82ec6ca2dd7ea5e704dbd7f31ecdef7f7cbc7f",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "a3f4e7a09bc068ab459d12160e93d1d0654dc67dff3b2bd362971dab39459581",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_darwin_amd64.zip"
+      "sha256": "c35e5d48aa2fe3088a38a12e9f1ac917aedd86b2c94eb3a1594e696467e08668",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "340f487b2433cb0c32f00502e85de8544882ad85ad346fc8ee46b3c438338137",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.7.0/terraform-provider-sdm_14.7.0_linux_amd64.zip"
+      "sha256": "837561766943d302c9019c2e7523cc92be336c38b986a19fcfec0a73c626a639",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.7.0"
+  "version": "14.8.0"
 }
