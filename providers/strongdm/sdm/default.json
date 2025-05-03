@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "fe4514f70f8b76eb009d734b78ae0db51d6912c7b3361893d7642bd713b91887",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_darwin_arm64.zip"
+      "sha256": "bda648bc6f9db20d6160472251bddf1bc2a83d071c4bd16222268622f9454c2a",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a2b2584f9a3c5ad827456b0ebf82ec6ca2dd7ea5e704dbd7f31ecdef7f7cbc7f",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_linux_arm64.zip"
+      "sha256": "022b173d54e4a09c5449264db85b308052165ba2c3827f3bdd246e434343ee6a",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "c35e5d48aa2fe3088a38a12e9f1ac917aedd86b2c94eb3a1594e696467e08668",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_darwin_amd64.zip"
+      "sha256": "1a10b54b380b262bb073ee8239ec5135e8a000c64d9ab2e7357b2d37a35e15f0",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "837561766943d302c9019c2e7523cc92be336c38b986a19fcfec0a73c626a639",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.8.0/terraform-provider-sdm_14.8.0_linux_amd64.zip"
+      "sha256": "0d9d86fd342ccbf913b63836d956a5023723766da2712f0322f213dc83e298e1",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.9.0/terraform-provider-sdm_14.9.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.8.0"
+  "version": "14.9.0"
 }
