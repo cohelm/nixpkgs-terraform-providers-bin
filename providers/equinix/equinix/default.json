@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "dfa05fe22e3e375e0d05f4133c1c0085c8bf19241f694e1467a061efc211339c",
-      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.7.0/terraform-provider-equinix_3.7.0_darwin_arm64.zip"
+      "sha256": "59064f11a43b00b162d2bd889d674d889f277d7242f3dadb98b8653c83f4f4eb",
+      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.8.0/terraform-provider-equinix_3.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1bfcd86cffd3e6ff69f9a60d6908a88093b7d69acf0e74690c45ccd867d76fc4",
-      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.7.0/terraform-provider-equinix_3.7.0_linux_arm64.zip"
+      "sha256": "8f22fd4b2d34f99cbd371af0e80bde0f1613066ce70134346fcfebc27fab55b8",
+      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.8.0/terraform-provider-equinix_3.8.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5709e5ebc78951c0e1b2c7c8f43bab2f3fad0489fbfb63770b34564ebd5081eb",
-      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.7.0/terraform-provider-equinix_3.7.0_linux_386.zip"
+      "sha256": "83f5f40ab6abdbec29f4e5bb223bc200ebe4386553aa25d20e08e57daad12a3d",
+      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.8.0/terraform-provider-equinix_3.8.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f2d1c877c47edab87cc026057172268fa997e4fa9427f151accf7c8aee9cd090",
-      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.7.0/terraform-provider-equinix_3.7.0_darwin_amd64.zip"
+      "sha256": "8bb2236ed9c4063ed0386910ea69ac08894a05173985a5b22cffa61019bc2390",
+      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.8.0/terraform-provider-equinix_3.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "4d3cc3bf2e2d1183bb235343c9fca6f4903b3d8bb409a7d08177d52889ec2635",
-      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.7.0/terraform-provider-equinix_3.7.0_linux_amd64.zip"
+      "sha256": "68605f68efd390517c9322275593aa35c2635c629bb5258145a30d5ae63e79e4",
+      "url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v3.8.0/terraform-provider-equinix_3.8.0_linux_amd64.zip"
     }
   },
   "owner": "equinix",
   "repo": "equinix",
-  "version": "3.7.0"
+  "version": "3.8.0"
 }
