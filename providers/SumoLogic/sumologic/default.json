@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "cedde328461756c4f8e4ffe4568187da9db8681e6b2b8a68b4894d342aa8cb1d",
-      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.9/terraform-provider-sumologic_3.0.9_darwin_arm64.zip"
+      "sha256": "15054f384faf7cdffd4b225e3c98aee085aa0ee9487ba9b316b7ebf7fb6649dc",
+      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.10/terraform-provider-sumologic_3.0.10_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a019170c1f03138cdad11a723b3740af15f7e7bc089bfb73ef895193e1260c1c",
-      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.9/terraform-provider-sumologic_3.0.9_linux_arm64.zip"
+      "sha256": "1d922186deb554b92cd2412a9e681fcd914b2cbc61b667afb0d4d02a64f43098",
+      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.10/terraform-provider-sumologic_3.0.10_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "dc3e48d47751743838a727eaa7d886c68dcb8a1dfff9866693818274a2df7900",
-      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.9/terraform-provider-sumologic_3.0.9_linux_386.zip"
+      "sha256": "44222f711a4a435f97c354a2087cb84eb71b0450541e45d027e7c01dadf9d796",
+      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.10/terraform-provider-sumologic_3.0.10_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f794d2da760b1cdc328b89993a16cb2c57e47b497f4db51ade517cd31ad9c26c",
-      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.9/terraform-provider-sumologic_3.0.9_darwin_amd64.zip"
+      "sha256": "d9a43aa88c8ae261cc95e873717081c971c0b4cfffa4e482f9a73d909a9511e9",
+      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.10/terraform-provider-sumologic_3.0.10_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a460b16ffb24606f95a3b368f29a0d618a4da45c13b88ae01434b16d9684320a",
-      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.9/terraform-provider-sumologic_3.0.9_linux_amd64.zip"
+      "sha256": "b99c80074e54b52d07a833ece68ea17ed570048aa6f8473708f22b732d35058d",
+      "url": "https://github.com/SumoLogic/terraform-provider-sumologic/releases/download/v3.0.10/terraform-provider-sumologic_3.0.10_linux_amd64.zip"
     }
   },
   "owner": "SumoLogic",
   "repo": "sumologic",
-  "version": "3.0.9"
+  "version": "3.0.10"
 }

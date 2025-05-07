@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "b38a58c4ddb851155910d638382aa96e647e808ae788ce963c1fc7ff9548bf8a",
-      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.33.1/terraform-provider-honeycombio_0.33.1_darwin_arm64.zip"
+      "sha256": "cb6db2c3d1e233e4aada710c29454936d547bb49d7e4895e149ee226a354b4f3",
+      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.34.0/terraform-provider-honeycombio_0.34.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "93b70effa1c2c2f6d4a5dabba6d3e7512d23119e9d28e57dd484838caa68f9cf",
-      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.33.1/terraform-provider-honeycombio_0.33.1_linux_arm64.zip"
+      "sha256": "bbfb443045845ac5c560372931cb8d8aa0ab7f05e1888f0f6060eb9f915185ba",
+      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.34.0/terraform-provider-honeycombio_0.34.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5c9a0c629865604199441590d703974524c57b64ad41213d0ed46c6102607d16",
-      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.33.1/terraform-provider-honeycombio_0.33.1_linux_386.zip"
+      "sha256": "39ffeac89161289615c1efeb1593ef39d255cbf7f1cf6658f1b8c466d588f653",
+      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.34.0/terraform-provider-honeycombio_0.34.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9b6a41370345c314464a28d2b22ac6d6848e71f33fcbe0b6427caf2894959b41",
-      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.33.1/terraform-provider-honeycombio_0.33.1_darwin_amd64.zip"
+      "sha256": "a2c1c1494ece82149c857db2a90dd9d975e4f1faca0033029492d280e7804836",
+      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.34.0/terraform-provider-honeycombio_0.34.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "b3b3872bdaa7c5db132b4d80c92725efc24c70b7dabbe8e04198bb8219933962",
-      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.33.1/terraform-provider-honeycombio_0.33.1_linux_amd64.zip"
+      "sha256": "2075f744e63c84ce22d8c90e926c962d89de8711b73f14466d1eb394b041ee3a",
+      "url": "https://github.com/honeycombio/terraform-provider-honeycombio/releases/download/v0.34.0/terraform-provider-honeycombio_0.34.0_linux_amd64.zip"
     }
   },
   "owner": "honeycombio",
   "repo": "honeycombio",
-  "version": "0.33.1"
+  "version": "0.34.0"
 }

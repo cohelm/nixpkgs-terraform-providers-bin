@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "d3ebfbb0e791d54599dbb6fa0ab9734f6fd1d4a5f5cb2cb43b1facda05a833db",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.4.0/terraform-provider-docker_3.4.0_darwin_arm64.zip"
+      "sha256": "7e59eb91e253a3f04b40e1e0b45b027fed0e69fed78cd996788a23d92f02137d",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.5.0/terraform-provider-docker_3.5.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d504d3b6cee7a1e16e74c157a421d7bfdd48e668d50d4da5a8b051ac17b6c735",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.4.0/terraform-provider-docker_3.4.0_linux_arm64.zip"
+      "sha256": "790d0b9bc941d1953a739da5426b6a5efa4db97a9c4bb30c52019536abc40661",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.5.0/terraform-provider-docker_3.5.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "0a00959bff0b101791c6eb6ccbed6135f5e6f9cadc642317343a046de3f22529",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.4.0/terraform-provider-docker_3.4.0_linux_386.zip"
+      "sha256": "e41f2b9901202cb2cf7929005340ffc498ab1ca813005e364af4016a85634b5e",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.5.0/terraform-provider-docker_3.5.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "163dab50c1c1b9d6ef4c63aab4973ef4f9ee465c2165f623e38c3dc2aff8856a",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.4.0/terraform-provider-docker_3.4.0_darwin_amd64.zip"
+      "sha256": "cda2545056b6028d84505b18aaf20e7c769f6665fe27e16d2c52e35d23840689",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.5.0/terraform-provider-docker_3.5.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "bb8306c644e95021a0aabc0ba3adc9d9cf3577254c0cd322a4f2be8b4d9b20f1",
-      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.4.0/terraform-provider-docker_3.4.0_linux_amd64.zip"
+      "sha256": "0f945042448360b3f44662db4dceb7287236a950cf936bc973735acc7cded206",
+      "url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v3.5.0/terraform-provider-docker_3.5.0_linux_amd64.zip"
     }
   },
   "owner": "kreuzwerker",
   "repo": "docker",
-  "version": "3.4.0"
+  "version": "3.5.0"
 }
