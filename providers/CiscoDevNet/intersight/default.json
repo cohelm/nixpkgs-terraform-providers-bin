@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2d669cd951fd16e10259c401d9e8aa8f8343c88c32e17253936907a2f33a5d6a",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.64/terraform-provider-intersight_1.0.64_darwin_arm64.zip"
+      "sha256": "8e3354f6c8277c78821948349f49699f4b9a0a7b5a3aacf259b892efc81e78eb",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.65/terraform-provider-intersight_1.0.65_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "271dd7756b2447f002ef34acfa466f53d894f5e447cb38304bbb4e16875946b5",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.64/terraform-provider-intersight_1.0.64_linux_arm64.zip"
+      "sha256": "629361956629bc1e4aac5cf662baa6af5348ec2a559135039bce647eeaf3eacb",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.65/terraform-provider-intersight_1.0.65_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "f1e540b0b5c09f6329b13fe828643982e61b10465e956cf58fc421b31bd704cf",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.64/terraform-provider-intersight_1.0.64_darwin_amd64.zip"
+      "sha256": "c78ec542ff1dd3d2021255de8325e4b25566f1131c61ec04df6dd899be773e55",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.65/terraform-provider-intersight_1.0.65_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "fc53fce47c7cee485652c70cc94fa8d48cc7e0b71906c94352df49cebbde435c",
-      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.64/terraform-provider-intersight_1.0.64_linux_amd64.zip"
+      "sha256": "f9f46031567580865dde6036a8e6cfb2644185c3954c586703a08bc03593230f",
+      "url": "https://github.com/CiscoDevNet/terraform-provider-intersight/releases/download/v1.0.65/terraform-provider-intersight_1.0.65_linux_amd64.zip"
     }
   },
   "owner": "CiscoDevNet",
   "repo": "intersight",
-  "version": "1.0.64"
+  "version": "1.0.65"
 }
