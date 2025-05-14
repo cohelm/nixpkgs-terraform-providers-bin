@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1f38a972524b6275a8365595a995af9023f97408a0e6ce57ef5ec5b76ece4f89",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_darwin_arm64.zip"
+      "sha256": "1f9a39bb9fc748b64e266ba620f2ffe4c407365953647f2e89daf33b1d3b8286",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.13.0/terraform-provider-sdm_14.13.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7c1794d5e6f96b0ba81feb72bba61f64e2e2d282dbaa4a973f82c57bce567cc8",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_linux_arm64.zip"
+      "sha256": "25189cd39eefc2f5ad943b34eea46c5554cb4ecbde423ff307f57aa9f46ad86d",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.13.0/terraform-provider-sdm_14.13.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "768e9a7e18d8655bf60949eb3070483fae514b6e992ca7314f7077ca237cf875",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_darwin_amd64.zip"
+      "sha256": "7001df5bee06f6d7f64a28bb2c083a73677fdd1f294443b520c134e0833a5158",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.13.0/terraform-provider-sdm_14.13.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "49a53297aef7e17630ef3095fab4f2fee58045b1e5f96b69d74c70da3f33d493",
-      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.11.0/terraform-provider-sdm_14.11.0_linux_amd64.zip"
+      "sha256": "ae38e4519da8f801706e71d9ce93ea8fb814d794fda1eac3027b2fe1aea34b67",
+      "url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v14.13.0/terraform-provider-sdm_14.13.0_linux_amd64.zip"
     }
   },
   "owner": "strongdm",
   "repo": "sdm",
-  "version": "14.11.0"
+  "version": "14.13.0"
 }

@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "06d3a881819075a55c6fe4a5899fa96c3c872aeb3bf8bfca80c54f5f4b4bf12c",
-      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.8/terraform-provider-ksyun_1.18.8_darwin_arm64.zip"
+      "sha256": "71da47a1c78b9475e13cef4742baa481914492ef6a8606485cc3d4bcca0b770b",
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.9/terraform-provider-ksyun_1.18.9_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "6c9629cc73cc3843d1f7d75b25dfda5e24865352050f6658d44b97604f69d418",
-      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.8/terraform-provider-ksyun_1.18.8_linux_arm64.zip"
+      "sha256": "e2130f7eb57a78bfed234fcb98481c0942c97a8d72b823593fc514d579884c24",
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.9/terraform-provider-ksyun_1.18.9_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "75a41c238622e11098dbaad39cb5aed325a0390f31d76bee097ee5fe899b96ad",
-      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.8/terraform-provider-ksyun_1.18.8_linux_386.zip"
+      "sha256": "aae01f1b79f7df174ebfefbb5629fc1066e1b8b0e9971e8f837280c56b682463",
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.9/terraform-provider-ksyun_1.18.9_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "229606f7ec47c42a47e0fec008443254270ce85a26707098e0360806d1468f66",
-      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.8/terraform-provider-ksyun_1.18.8_darwin_amd64.zip"
+      "sha256": "e0efb48b68706923c807eed68c87054bae6d4dfaa4252acef67da41b7d6f058e",
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.9/terraform-provider-ksyun_1.18.9_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c6d616fae90684d836e64c41c5455238502895f4b545657a7b6f8d41a3a7f91f",
-      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.8/terraform-provider-ksyun_1.18.8_linux_amd64.zip"
+      "sha256": "0cb4530db31ba6c541d44517332f493238af0572f190bcc7d33405d8ed6b465d",
+      "url": "https://github.com/kingsoftcloud/terraform-provider-ksyun/releases/download/v1.18.9/terraform-provider-ksyun_1.18.9_linux_amd64.zip"
     }
   },
   "owner": "kingsoftcloud",
   "repo": "ksyun",
-  "version": "1.18.8"
+  "version": "1.18.9"
 }

@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bf2dc5b695d1e18020345bea47ba0e1dcc4def06a11b572930eff2e58e530664",
-      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.6.0/terraform-provider-onelogin_0.6.0_darwin_arm64.zip"
+      "sha256": "686b28ae68cba5ae6f340bb127e1688c3aabc44578ca1abc19bec8c98ad57319",
+      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.8.0/terraform-provider-onelogin_0.8.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "abcbbe22b4381a5133270cc6f22f3753f6ea80e0ce57d277f406cae8160f7e90",
-      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.6.0/terraform-provider-onelogin_0.6.0_linux_arm64.zip"
+      "sha256": "0c23baa6455e625b72b14e5e96d5e4f6d1619206e2adec5817aa770ac9a7df0c",
+      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.8.0/terraform-provider-onelogin_0.8.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9d04d77719b7ac45aee78ad763b4e187ff20f1edb18e2298f5ce7cd5ed958001",
-      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.6.0/terraform-provider-onelogin_0.6.0_darwin_amd64.zip"
+      "sha256": "9fc06d3ca50a8f49fc15e37481afbecfa0a72e6a47b89a49e0e7d8d2eb157d79",
+      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.8.0/terraform-provider-onelogin_0.8.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "092ca1407ee0d4b8590fa253dc29a73fbc7ad91a2adbd3a18ff7fc5b13b4a42f",
-      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.6.0/terraform-provider-onelogin_0.6.0_linux_amd64.zip"
+      "sha256": "ea6b96b6895aab057c4f34e96a47b259f4ad7a441a029d9b57e64525b4fb2b13",
+      "url": "https://github.com/onelogin/terraform-provider-onelogin/releases/download/v0.8.0/terraform-provider-onelogin_0.8.0_linux_amd64.zip"
     }
   },
   "owner": "onelogin",
   "repo": "onelogin",
-  "version": "0.6.0"
+  "version": "0.8.0"
 }
