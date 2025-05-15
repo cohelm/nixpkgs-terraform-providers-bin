@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bcb6f4573b2bec532003e693b7c5c8003932f678875be8fe77b83f4781738881",
-      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.1.0/terraform-provider-zitadel_2.1.0_darwin_arm64.zip"
+      "sha256": "bcc948e2be80889b91e9968912966684bad8126d3c782a13f4b1539cf9baaf2e",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.2.0/terraform-provider-zitadel_2.2.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c4be4580ec42967a3071e455b8bafe5189213df9071ede753223f514e9347a47",
-      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.1.0/terraform-provider-zitadel_2.1.0_linux_arm64.zip"
+      "sha256": "8551afd829baf2743a3be11223135d6a6f000e200b9bf6067505b6b2e8852b9d",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.2.0/terraform-provider-zitadel_2.2.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "823ea704f477e794ddcf1c88cdf06746c57fc327b6e9798cf3ade80bf170910b",
-      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.1.0/terraform-provider-zitadel_2.1.0_linux_386.zip"
+      "sha256": "bdcde030dea974c923c76f88513cee5752f504558b4b9b0fe1aa19d8e3c4817f",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.2.0/terraform-provider-zitadel_2.2.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "dad80eabf2490801724dd864ce4186644155f2940e8120b9e4ebf28e71a1b07c",
-      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.1.0/terraform-provider-zitadel_2.1.0_darwin_amd64.zip"
+      "sha256": "1626a9951917bd184e67ab0c0566e51e05001b36a2e3ee12065a4b3d051c96f7",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.2.0/terraform-provider-zitadel_2.2.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "1a64e653965bccec1f991272f033a750badd4877f38c1db145b5ce9d350b2602",
-      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.1.0/terraform-provider-zitadel_2.1.0_linux_amd64.zip"
+      "sha256": "af3bc4331549d10410e2d55463ed0fb85324963fee0295cec9174db9cf27cb79",
+      "url": "https://github.com/zitadel/terraform-provider-zitadel/releases/download/v2.2.0/terraform-provider-zitadel_2.2.0_linux_amd64.zip"
     }
   },
   "owner": "zitadel",
   "repo": "zitadel",
-  "version": "2.1.0"
+  "version": "2.2.0"
 }
